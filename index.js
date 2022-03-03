@@ -6,4 +6,21 @@ function whisper(string){
 return string.toLowerCase()
 
 }
-logshout(string)
+function logShout(string){
+console.log(string.toUpperCase())
+
+}
+
+function logWhisper(string){
+console.log(string.toLowerCase())
+
+}
+const string (I can/'t Hear you.toLowerCase()) 
+
+console.log(string)
+console.log sayHiHeadphonedRoommate(string)()
+
+console.log(string ==== string.toLowerCase)()
+
+    
+        
